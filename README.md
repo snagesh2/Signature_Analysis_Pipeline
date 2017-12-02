@@ -21,7 +21,7 @@ and two correlation measures:
 * * * 
 ### 1. Clone the Gene_Signature_Pipeline Repo
 ```
- git clone https://github.com/KnowEnG-Research/Gene_Signature_Pipeline.git
+git clone https://github.com/KnowEnG-Research/Signature_Analysis_Pipeline.git
 ```
  
 ### 2. Install the following (Ubuntu or Linux)
@@ -39,10 +39,10 @@ and two correlation measures:
  apt-get install -y libblas-dev liblapack-dev libatlas-base-dev gfortran
 ```
 
-### 3. Change directory to Gene_Signature_Pipeline
+### 3. Change directory to Signature_Analysis_Pipeline
 
 ```
-cd Gene_Signature_Pipeline
+cd Signature_Analysis_Pipeline
 ```
 
 ### 4. Change directory to test
